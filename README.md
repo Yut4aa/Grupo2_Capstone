@@ -4,3 +4,4 @@
 
 
 # Bitacora Del Trabajo
+(./Bitacora Capstone.pdf)
