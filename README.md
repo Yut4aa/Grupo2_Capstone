@@ -3,10 +3,15 @@
 
 ***Miembros del equipo***
 -*Xiomara Quiroz, Ing. civil industrial*
+---
 -*Michelle Jara, Ing. civil industrial*
+---
 -*Felipe Cornejo, Ing. civil industrial*
+---
 -*Joaquín Aguilera, Ing. civil industrial*
+---
 -*Juan Millapán, Ing. civil en computación e informatica
+---
 
 
 # Objetivo:
